@@ -1,0 +1,8 @@
+
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(¾ÎŒÂÿÿÿÿÿ8Ó€Îéˆ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(èáÊ¬úÿÿÿÿ8Ó€Îéˆ/
+U	java:S106'"9Replace this use of System.out or System.err by a logger.(Ïêéî8Ó€Îéˆ/
+p
+java:S1128"NRemove this unused import 'com.linli.feign.client.feign.GetMethodFeignClient'.(¯ÔÈÙùÿÿÿÿ8Ó€Îéˆ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(—Ø…Ç8ï¦õéˆ/
+]	java:S125#"<This block of commented-out lines of code should be removed.(²øâıÿÿÿÿ8š×÷éˆ/
